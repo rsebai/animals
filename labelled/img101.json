@@ -1,0 +1,42 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cochon-inde",
+      "points": [
+        [
+          10.3,
+          14.100000000000001
+        ],
+        [
+          32.3,
+          60.900000000000006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cochon-inde",
+      "points": [
+        [
+          31.6,
+          5.600000000000001
+        ],
+        [
+          61.2,
+          62.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img101.jpg",
+  "imageData": null,
+  "imageHeight": 64,
+  "imageWidth": 64
+}
