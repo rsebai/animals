@@ -1,0 +1,26 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chimpanze",
+      "points": [
+        [
+          14.700000000000003,
+          6.300000000000001
+        ],
+        [
+          41.8,
+          62.3
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img709.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABAAEADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCW2HyirYqrb/dFWq9tnnBSFlUgFgM8DJ60tclqt3JeaxHFEwVY0LbmJAAz1rKrU5EaU4c7OsorL0q6kaSW2mYM6/OpByNp4x+lalXCXNG5Mo8rsRSCsHWh/okv+6a35OlYWsj/AESX/dNaEmxb/dFWaq25+UVaqWBieItS+xpb2yvtkuGxkdgP/wBYrHs4hDrhXfuWSIj9eay/G1w0viK2jR8eWAv05z/WtN/3UdvcoNzREhh6qa4a7vI7KKsjRsblI/EslsVAcxBQR3/iP866OvNtM1Az+LhcbCitKqgH6ba9HzxXRQ+GxhW+K42SsLWf+PSX/dNbj9DWHrJ/0SX/AHT/ACroMjWtz8oqzniqlsflFLqExg024kU/MqHH1qZOyuNK7seW6v5k+qtM8m9pJ8qe+0c/4V0cb+aioDtVznJ7Csz7KH0uW7K/6ucDd/vY/wABVNb848tn2jpn8a853dmzt0Wgwy7NbkKHGHyMe1esIxKAnqRmvILeBS0s7OxZXxGf73HNet2z+ZaxP/eQH9K6sPsznrbj3PFYOtH/AEWX/dNbknQ1z+tti1k/3TXSjBmvan5RVfXpdmluM4BPP0HNOspQUFZ/iG5UeVGeQpBK+uTisa7tBmtJXmipBbxXekjTyu2M4Z2HUv1/TpXJXmh3aanJGSogib5pM/ezzxXU2V0lpbySzMAFBasR9Y8/TppsZ8yRiM/XArg5m2dfKkiSwhilvraz3Ll2AJHYV6MoCKEUYAGBXn8Fp9mtFdG3T7lkMh6iu0sdRiv4y0YPy4zmurDzjsc9aMtyzIeK5zXWxayf7prflfg1yniK4C2sgz2NdaOdn//Z",
+  "imageHeight": 64,
+  "imageWidth": 64
+}
