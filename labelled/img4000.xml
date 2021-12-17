@@ -1,0 +1,26 @@
+<annotation>
+	<folder>younes_unlabelled</folder>
+	<filename>img4000.jpg</filename>
+	<path>D:\Documents\Etudes\3A\IA\animals-master\younes_unlabelled\img4000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>52</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabelled_4000</folder>
+	<filename>img4255.jpg</filename>
+	<path>C:\Users\boudi\Documents\Etudes\3A\IA\animals-master\unlabelled_4000\img4255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lynx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>14</ymin>
+			<xmax>54</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>
