@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabelled_rajae</folder>
+	<filename>img2013.jpg</filename>
+	<path>C:\Users\rajae\Downloads\animals-master\unlabelled_rajae\img2013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>23</ymin>
+			<xmax>53</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>
