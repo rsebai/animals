@@ -6,28 +6,12 @@
       "label": "cochon-inde",
       "points": [
         [
-          20.5,
-          1.9000000000000004
-        ],
-        [
-          63.0,
-          62.2
-        ]
-      ],
-      "group_id": null,
-      "shape_type": "rectangle",
-      "flags": {}
-    },
-    {
-      "label": "hamster",
-      "points": [
-        [
-          19.299999999999997,
-          0.5999999999999996
+          18.799999999999997,
+          0.5
         ],
         [
           63,
-          61
+          58
         ]
       ],
       "group_id": null,
