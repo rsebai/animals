@@ -1,0 +1,1 @@
+<annotation><filename>img101.jpg</filename><size><width>64</width><height>64</height><depth>3</depth></size><object><name>cochon-inde</name><bndbox><xmin>10</xmin><ymin>14</ymin><xmax>32</xmax><ymax>61</ymax></bndbox></object><object><name>cochon-inde</name><bndbox><xmin>32</xmin><ymin>6</ymin><xmax>61</xmax><ymax>62</ymax></bndbox></object></annotation>

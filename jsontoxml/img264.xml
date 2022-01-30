@@ -1,0 +1,1 @@
+<annotation><filename>img264.jpg</filename><size><width>64</width><height>64</height><depth>3</depth></size><object><name>chat</name><bndbox><xmin>28</xmin><ymin>12</ymin><xmax>63</xmax><ymax>58</ymax></bndbox></object><object><name>chat</name><bndbox><xmin>4</xmin><ymin>2</ymin><xmax>45</xmax><ymax>61</ymax></bndbox></object></annotation>
